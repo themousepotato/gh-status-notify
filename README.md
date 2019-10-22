@@ -1,2 +1,2 @@
 # gh-status-notify
-GitHub System Status notifier
+Get notifications in your system about the status of the GitHub server.
